@@ -26,7 +26,8 @@
       "03_comp/radio": "enabled",
       "03_comp/switch": "enabled",
       "03_comp/tag": "enabled",
-      "03_comp/text-field": "enabled"
+      "03_comp/text-field": "enabled",
+      "boxShadow-transfer": "disabled"
     },
     "$figmaStyleReferences": {}
   },
@@ -57,7 +58,8 @@
       "03_comp/radio": "enabled",
       "03_comp/switch": "enabled",
       "03_comp/tag": "enabled",
-      "03_comp/text-field": "enabled"
+      "03_comp/text-field": "enabled",
+      "boxShadow-transfer": "disabled"
     },
     "$figmaStyleReferences": {}
   },
@@ -88,7 +90,8 @@
       "03_comp/radio": "enabled",
       "03_comp/switch": "enabled",
       "03_comp/tag": "enabled",
-      "03_comp/text-field": "enabled"
+      "03_comp/text-field": "enabled",
+      "boxShadow-transfer": "disabled"
     },
     "$figmaStyleReferences": {}
   },
@@ -119,7 +122,8 @@
       "03_comp/tag": "enabled",
       "03_comp/text-field": "enabled",
       "Calcite/Dark": "disabled",
-      "Calcite/Light": "disabled"
+      "Calcite/Light": "disabled",
+      "boxShadow-transfer": "disabled"
     },
     "$figmaStyleReferences": {}
   },
@@ -150,7 +154,8 @@
       "03_comp/tag": "enabled",
       "03_comp/text-field": "enabled",
       "Calcite/Dark": "disabled",
-      "Calcite/Light": "disabled"
+      "Calcite/Light": "disabled",
+      "boxShadow-transfer": "disabled"
     },
     "$figmaStyleReferences": {}
   }
