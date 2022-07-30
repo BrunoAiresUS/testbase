@@ -5,10 +5,6 @@
     "selectedTokenSets": {
       "01_core": "enabled",
       "02_semantic": "enabled",
-      "Calcite/Dark": "disabled",
-      "Calcite/Light": "disabled",
-      "Marketing/Dark": "disabled",
-      "Marketing/Light": "disabled",
       "03_comp/alert-banner": "enabled",
       "03_comp/avatar": "enabled",
       "03_comp/body": "enabled",
@@ -27,7 +23,10 @@
       "03_comp/switch": "enabled",
       "03_comp/tag": "enabled",
       "03_comp/text-field": "enabled",
-      "boxShadow-transfer": "disabled"
+      "Calcite/01_Light": "disabled",
+      "Calcite/02_Dark": "disabled",
+      "Brand/02_Dark": "disabled",
+      "Brand/01_Light": "disabled"
     },
     "$figmaStyleReferences": {}
   },
@@ -37,10 +36,6 @@
     "selectedTokenSets": {
       "01_core": "source",
       "02_semantic": "enabled",
-      "Calcite/Dark": "disabled",
-      "Calcite/Light": "enabled",
-      "Marketing/Dark": "disabled",
-      "Marketing/Light": "disabled",
       "03_comp/alert-banner": "enabled",
       "03_comp/avatar": "enabled",
       "03_comp/body": "enabled",
@@ -59,7 +54,10 @@
       "03_comp/switch": "enabled",
       "03_comp/tag": "enabled",
       "03_comp/text-field": "enabled",
-      "boxShadow-transfer": "disabled"
+      "Calcite/01_Light": "enabled",
+      "Calcite/02_Dark": "disabled",
+      "Brand/02_Dark": "disabled",
+      "Brand/01_Light": "disabled"
     },
     "$figmaStyleReferences": {}
   },
@@ -69,10 +67,6 @@
     "selectedTokenSets": {
       "01_core": "source",
       "02_semantic": "enabled",
-      "Calcite/Dark": "enabled",
-      "Calcite/Light": "disabled",
-      "Marketing/Dark": "disabled",
-      "Marketing/Light": "disabled",
       "03_comp/alert-banner": "enabled",
       "03_comp/avatar": "enabled",
       "03_comp/body": "enabled",
@@ -91,7 +85,10 @@
       "03_comp/switch": "enabled",
       "03_comp/tag": "enabled",
       "03_comp/text-field": "enabled",
-      "boxShadow-transfer": "disabled"
+      "Calcite/01_Light": "disabled",
+      "Calcite/02_Dark": "enabled",
+      "Brand/02_Dark": "disabled",
+      "Brand/01_Light": "disabled"
     },
     "$figmaStyleReferences": {}
   },
@@ -101,8 +98,6 @@
     "selectedTokenSets": {
       "01_core": "source",
       "02_semantic": "enabled",
-      "Marketing/Dark": "disabled",
-      "Marketing/Light": "enabled",
       "03_comp/alert-banner": "enabled",
       "03_comp/avatar": "enabled",
       "03_comp/body": "enabled",
@@ -121,9 +116,10 @@
       "03_comp/switch": "enabled",
       "03_comp/tag": "enabled",
       "03_comp/text-field": "enabled",
-      "Calcite/Dark": "disabled",
-      "Calcite/Light": "disabled",
-      "boxShadow-transfer": "disabled"
+      "Calcite/01_Light": "disabled",
+      "Calcite/02_Dark": "disabled",
+      "Brand/02_Dark": "disabled",
+      "Brand/01_Light": "enabled"
     },
     "$figmaStyleReferences": {}
   },
@@ -133,8 +129,6 @@
     "selectedTokenSets": {
       "01_core": "source",
       "02_semantic": "enabled",
-      "Marketing/Dark": "enabled",
-      "Marketing/Light": "disabled",
       "03_comp/alert-banner": "enabled",
       "03_comp/avatar": "enabled",
       "03_comp/body": "enabled",
@@ -153,9 +147,10 @@
       "03_comp/switch": "enabled",
       "03_comp/tag": "enabled",
       "03_comp/text-field": "enabled",
-      "Calcite/Dark": "disabled",
-      "Calcite/Light": "disabled",
-      "boxShadow-transfer": "disabled"
+      "Calcite/01_Light": "disabled",
+      "Calcite/02_Dark": "disabled",
+      "Brand/02_Dark": "enabled",
+      "Brand/01_Light": "disabled"
     },
     "$figmaStyleReferences": {}
   }

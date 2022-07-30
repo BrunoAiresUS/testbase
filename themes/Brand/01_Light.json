@@ -1,0 +1,12 @@
+{
+  "core": {
+    "font": {
+      "font-size": {
+        "6": {
+          "value": "26px",
+          "type": "fontSizes"
+        }
+      }
+    }
+  }
+}
