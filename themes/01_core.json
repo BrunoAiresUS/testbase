@@ -331,6 +331,120 @@
           "type": "borderWidth"
         }
       }
+    },
+    "opacity": {
+      "0": {
+        "value": "0%",
+        "type": "opacity"
+      },
+      "5": {
+        "value": "5%",
+        "type": "opacity"
+      },
+      "10": {
+        "value": "10%",
+        "type": "opacity"
+      },
+      "15": {
+        "value": "15%",
+        "type": "opacity"
+      },
+      "20": {
+        "value": "20%",
+        "type": "opacity"
+      },
+      "30": {
+        "value": "30%",
+        "type": "opacity"
+      },
+      "40": {
+        "value": "40%",
+        "type": "opacity"
+      },
+      "50": {
+        "value": "50%",
+        "type": "opacity"
+      },
+      "60": {
+        "value": "60%",
+        "type": "opacity"
+      },
+      "70": {
+        "value": "70%",
+        "type": "opacity"
+      },
+      "80": {
+        "value": "80%",
+        "type": "opacity"
+      },
+      "85": {
+        "value": "85%",
+        "type": "opacity"
+      },
+      "90": {
+        "value": "90%",
+        "type": "opacity"
+      },
+      "95": {
+        "value": "95%",
+        "type": "opacity"
+      },
+      "100": {
+        "value": "100%",
+        "type": "opacity"
+      }
+    },
+    "color": {
+      "neutral": {
+        "blk-000": {
+          "value": "#ffffff",
+          "type": "color"
+        },
+        "blk-005": {
+          "value": "#f8f8f8",
+          "type": "color"
+        },
+        "blk-010": {
+          "value": "#f3f3f3",
+          "type": "color"
+        },
+        "blk-020": {
+          "value": "#eaeaea",
+          "type": "color"
+        },
+        "blk-030": {
+          "value": "#dfdfdf",
+          "type": "color"
+        },
+        "blk-040": {
+          "value": "#d4d4d4",
+          "type": "color"
+        },
+        "blk-050": {
+          "value": "#cacaca",
+          "type": "color"
+        },
+        "blk-060": {
+          "value": "#bfbfbf",
+          "type": "color"
+        },
+        "blk-070": {
+          "value": "#b5b5b5",
+          "type": "color"
+        },
+        "blk-080": {
+          "value": "#aaaaaa",
+          "type": "color"
+        },
+        "blk-090": {
+          "value": "#9f9f9f",
+          "type": "color"
+        },
+        "blk-100": {
+          "value": "#949494",
+          "type": "color"
+        }
+      }
     }
   }
 }

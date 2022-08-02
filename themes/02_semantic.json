@@ -243,6 +243,14 @@
           "type": "borderRadius"
         }
       }
+    },
+    "ui": {
+      "border": {
+        "border-radius": {
+          "value": "$semantic.border.border-radius.sharp",
+          "type": "borderRadius"
+        }
+      }
     }
   }
 }
