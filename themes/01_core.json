@@ -308,6 +308,28 @@
           "value": "9999px",
           "type": "borderRadius"
         }
+      },
+      "border-width": {
+        "0": {
+          "value": "1px",
+          "type": "borderWidth"
+        },
+        "1": {
+          "value": "2px",
+          "type": "borderWidth"
+        },
+        "2": {
+          "value": "4px",
+          "type": "borderWidth"
+        },
+        "3": {
+          "value": "8px",
+          "type": "borderWidth"
+        },
+        "none": {
+          "value": "0px",
+          "type": "borderWidth"
+        }
       }
     }
   }

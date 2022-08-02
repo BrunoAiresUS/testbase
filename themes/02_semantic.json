@@ -223,6 +223,26 @@
           }
         }
       }
+    },
+    "border": {
+      "border-radius": {
+        "sharp": {
+          "value": "$core.border.border-radius.none",
+          "type": "borderRadius"
+        },
+        "round": {
+          "value": "$core.border.border-radius.1",
+          "type": "borderRadius"
+        },
+        "circular": {
+          "value": "$core.border.border-radius.half",
+          "type": "borderRadius"
+        },
+        "pill": {
+          "value": "$core.border.border-radius.full",
+          "type": "borderRadius"
+        }
+      }
     }
   }
 }
