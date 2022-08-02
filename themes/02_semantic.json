@@ -124,12 +124,56 @@
         }
       },
       "line-height": {
-        "relative": {
-          "wrap-high": {
+        "display-1": {
+          "value": "$core.font.line-height.fixed.12",
+          "type": "lineHeights"
+        },
+        "display-2": {
+          "value": "$core.font.line-height.fixed.10",
+          "type": "lineHeights"
+        },
+        "heading-1": {
+          "value": "$core.font.line-height.fixed.10",
+          "type": "lineHeights"
+        },
+        "heading-2": {
+          "value": "$core.font.line-height.fixed.7",
+          "type": "lineHeights"
+        },
+        "heading-3": {
+          "value": "$core.font.line-height.fixed.5",
+          "type": "lineHeights"
+        },
+        "heading-4": {
+          "value": "$core.font.line-height.fixed.3",
+          "type": "lineHeights"
+        },
+        "heading-5": {
+          "value": "$core.font.line-height.fixed.3",
+          "type": "lineHeights"
+        },
+        "body-1": {
+          "value": "$core.font.line-height.fixed.2",
+          "type": "lineHeights"
+        },
+        "body-2": {
+          "value": "$core.font.line-height.fixed.1",
+          "type": "lineHeights"
+        },
+        "overline": {
+          "value": "$core.font.line-height.fixed.1",
+          "type": "lineHeights"
+        },
+        "caption": {
+          "value": "$core.font.line-height.fixed.1",
+          "type": "lineHeights"
+        },
+        "wrap": {
+          "high": {
             "value": "$core.font.line-height.relative.tight",
             "type": "lineHeights"
           },
-          "wrap-low": {
+          "low": {
             "value": "$core.font.line-height.relative.snug",
             "type": "lineHeights"
           }

@@ -7,18 +7,29 @@
           "type": "fontFamilies"
         },
         "secondary": {
-          "value": "Avenir Next",
+          "value": "Avenir Next World",
           "type": "fontFamilies"
         },
         "code": {
-          "value": "Andale Mono",
+          "value": "Monaco",
           "type": "fontFamilies"
         }
       },
       "font-weight": {
         "ultralight": {
-          "value": "Ultra Light",
-          "type": "fontWeights"
+          "value": "UltraLight",
+          "type": "fontWeights",
+          "description": "only for Avenir Next World (secondary font family)"
+        },
+        "thin": {
+          "value": "Thin",
+          "type": "fontWeights",
+          "description": "only for Avenir Next World (secondary font family)"
+        },
+        "light": {
+          "value": "Light",
+          "type": "fontWeights",
+          "description": "only for Avenir Next World (secondary font family)"
         },
         "regular": {
           "value": "Regular",
@@ -28,13 +39,24 @@
           "value": "Medium",
           "type": "fontWeights"
         },
-        "demibold": {
-          "value": "Demi Bold",
-          "type": "fontWeights"
+        "demi": {
+          "value": "Demi",
+          "type": "fontWeights",
+          "description": "only for Avenir Next World (secondary font family)"
         },
         "bold": {
           "value": "Bold",
           "type": "fontWeights"
+        },
+        "extrabold": {
+          "value": "ExtraBold",
+          "type": "fontWeights",
+          "description": "only for Avenir Next World (secondary font family)"
+        },
+        "black": {
+          "value": "Black",
+          "type": "fontWeights",
+          "description": "only for Avenir Next World (secondary font family)"
         },
         "heavy": {
           "value": "Heavy",
@@ -97,8 +119,8 @@
           }
         },
         "relative": {
-          "none": {
-            "value": "100%",
+          "default": {
+            "value": "auto",
             "type": "lineHeights",
             "description": "1"
           },
