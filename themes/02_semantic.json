@@ -176,6 +176,14 @@
           "low": {
             "value": "$core.font.line-height.relative.snug",
             "type": "lineHeights"
+          },
+          "display-1": {
+            "value": "$semantic.font.line-height.wrap.high",
+            "type": "lineHeights"
+          },
+          "display-2": {
+            "value": "$semantic.font.line-height.wrap.high",
+            "type": "lineHeights"
           }
         }
       }
