@@ -184,6 +184,42 @@
           "display-2": {
             "value": "$semantic.font.line-height.wrap.high",
             "type": "lineHeights"
+          },
+          "heading-1": {
+            "value": "$semantic.font.line-height.wrap.high",
+            "type": "lineHeights"
+          },
+          "heading-2": {
+            "value": "$semantic.font.line-height.wrap.high",
+            "type": "lineHeights"
+          },
+          "heading-3": {
+            "value": "$semantic.font.line-height.wrap.high",
+            "type": "lineHeights"
+          },
+          "heading-4": {
+            "value": "$semantic.font.line-height.wrap.low",
+            "type": "lineHeights"
+          },
+          "heading-5": {
+            "value": "$semantic.font.line-height.wrap.low",
+            "type": "lineHeights"
+          },
+          "body-1": {
+            "value": "$semantic.font.line-height.wrap.low",
+            "type": "lineHeights"
+          },
+          "body-2": {
+            "value": "$semantic.font.line-height.wrap.low",
+            "type": "lineHeights"
+          },
+          "overline": {
+            "value": "$semantic.font.line-height.wrap.low",
+            "type": "lineHeights"
+          },
+          "caption": {
+            "value": "$semantic.font.line-height.wrap.low",
+            "type": "lineHeights"
           }
         }
       }
