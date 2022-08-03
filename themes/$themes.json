@@ -1,36 +1,5 @@
 [
   {
-    "id": "f3768dee38b252f1dfdddfb3f2fde9782d3560bc",
-    "name": "Calcite Headless",
-    "selectedTokenSets": {
-      "01_core": "enabled",
-      "02_semantic": "enabled",
-      "03_comp/alert-banner": "enabled",
-      "03_comp/avatar": "enabled",
-      "03_comp/body": "enabled",
-      "03_comp/button": "enabled",
-      "03_comp/checkbox": "enabled",
-      "03_comp/code": "enabled",
-      "03_comp/detail": "enabled",
-      "03_comp/divider": "enabled",
-      "03_comp/field-label": "enabled",
-      "03_comp/heading": "enabled",
-      "03_comp/help-text": "enabled",
-      "03_comp/icon-button": "enabled",
-      "03_comp/link": "enabled",
-      "03_comp/menu-item": "enabled",
-      "03_comp/radio": "enabled",
-      "03_comp/switch": "enabled",
-      "03_comp/tag": "enabled",
-      "03_comp/text-field": "enabled",
-      "Calcite/01_Light": "disabled",
-      "Calcite/02_Dark": "disabled",
-      "Brand/02_Dark": "disabled",
-      "Brand/01_Light": "disabled"
-    },
-    "$figmaStyleReferences": {}
-  },
-  {
     "id": "ed0c822a9f81dad2733717990c607c1527803a14",
     "name": "Calcite - Light mode",
     "selectedTokenSets": {
@@ -150,6 +119,37 @@
       "Calcite/01_Light": "disabled",
       "Calcite/02_Dark": "disabled",
       "Brand/02_Dark": "enabled",
+      "Brand/01_Light": "disabled"
+    },
+    "$figmaStyleReferences": {}
+  },
+  {
+    "id": "f3768dee38b252f1dfdddfb3f2fde9782d3560bc",
+    "name": "Calcite Headless",
+    "selectedTokenSets": {
+      "01_core": "enabled",
+      "02_semantic": "enabled",
+      "03_comp/alert-banner": "enabled",
+      "03_comp/avatar": "enabled",
+      "03_comp/body": "enabled",
+      "03_comp/button": "enabled",
+      "03_comp/checkbox": "enabled",
+      "03_comp/code": "enabled",
+      "03_comp/detail": "enabled",
+      "03_comp/divider": "enabled",
+      "03_comp/field-label": "enabled",
+      "03_comp/heading": "enabled",
+      "03_comp/help-text": "enabled",
+      "03_comp/icon-button": "enabled",
+      "03_comp/link": "enabled",
+      "03_comp/menu-item": "enabled",
+      "03_comp/radio": "enabled",
+      "03_comp/switch": "enabled",
+      "03_comp/tag": "enabled",
+      "03_comp/text-field": "enabled",
+      "Calcite/01_Light": "disabled",
+      "Calcite/02_Dark": "disabled",
+      "Brand/02_Dark": "disabled",
       "Brand/01_Light": "disabled"
     },
     "$figmaStyleReferences": {}
