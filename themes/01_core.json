@@ -883,6 +883,90 @@
             "value": "#210300",
             "type": "color"
           }
+        },
+        "pink": {
+          "h-pk-010": {
+            "value": "#ffd1ef",
+            "type": "color"
+          },
+          "h-pk-020": {
+            "value": "#fabee4",
+            "type": "color"
+          },
+          "h-pk-030": {
+            "value": "#f2a5d6",
+            "type": "color"
+          },
+          "h-pk-040": {
+            "value": "#eb8dc9",
+            "type": "color"
+          },
+          "h-pk-050": {
+            "value": "#e673bb",
+            "type": "color"
+          },
+          "h-pk-060": {
+            "value": "#e04ea6",
+            "type": "color"
+          },
+          "h-pk-070": {
+            "value": "#ba2f7e",
+            "type": "color"
+          },
+          "h-pk-080": {
+            "value": "#851b52",
+            "type": "color"
+          },
+          "h-pk-090": {
+            "value": "#590b32",
+            "type": "color"
+          },
+          "h-pk-100": {
+            "value": "#260404",
+            "type": "color"
+          }
+        },
+        "violet-red": {
+          "h-vr-010": {
+            "value": "#fadbff",
+            "type": "color"
+          },
+          "h-vr-020": {
+            "value": "#e4beeb",
+            "type": "color"
+          },
+          "h-vr-030": {
+            "value": "#cfa1d7",
+            "type": "color"
+          },
+          "h-vr-040": {
+            "value": "#b983c3",
+            "type": "color"
+          },
+          "h-vr-050": {
+            "value": "#a466af",
+            "type": "color"
+          },
+          "h-vr-060": {
+            "value": "#8e499b",
+            "type": "color"
+          },
+          "h-vr-070": {
+            "value": "#73377e",
+            "type": "color"
+          },
+          "h-vr-080": {
+            "value": "#572561",
+            "type": "color"
+          },
+          "h-vr-090": {
+            "value": "#3c1243",
+            "type": "color"
+          },
+          "h-vr-100": {
+            "value": "#200026",
+            "type": "color"
+          }
         }
       }
     }
