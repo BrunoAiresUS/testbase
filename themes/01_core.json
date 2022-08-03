@@ -506,45 +506,131 @@
         }
       },
       "palette": {
-        "h-bb-010": {
-          "value": "#c7eaff",
-          "type": "color"
+        "blue": {
+          "h-bb-010": {
+            "value": "#c7eaff",
+            "type": "color"
+          },
+          "h-bb-020": {
+            "value": "#9fd4f3",
+            "type": "color"
+          },
+          "h-bb-030": {
+            "value": "#77bde7",
+            "type": "color"
+          },
+          "h-bb-040": {
+            "value": "#50a7da",
+            "type": "color"
+          },
+          "h-bb-050": {
+            "value": "#2890ce",
+            "type": "color"
+          },
+          "h-bb-060": {
+            "value": "#007ac2",
+            "type": "color"
+          },
+          "h-bb-070": {
+            "value": "#00619b",
+            "type": "color"
+          },
+          "h-bb-080": {
+            "value": "#004874",
+            "type": "color"
+          },
+          "h-bb-090": {
+            "value": "#00304d",
+            "type": "color"
+          },
+          "h-bb-100": {
+            "value": "#001726",
+            "type": "color"
+          }
         },
-        "h-bb-020": {
-          "value": "#9fd4f3",
-          "type": "color"
+        "green-blue": {
+          "h-gb-010": {
+            "value": "#cef5f4",
+            "type": "color"
+          },
+          "h-gb-020": {
+            "value": "#afedec",
+            "type": "color"
+          },
+          "h-gb-030": {
+            "value": "#8fe6e5",
+            "type": "color"
+          },
+          "h-gb-040": {
+            "value": "#5ae0de",
+            "type": "color"
+          },
+          "h-gb-050": {
+            "value": "#28cecb",
+            "type": "color"
+          },
+          "h-gb-060": {
+            "value": "#00bab5",
+            "type": "color"
+          },
+          "h-gb-070": {
+            "value": "#009b98",
+            "type": "color"
+          },
+          "h-gb-080": {
+            "value": "#007472",
+            "type": "color"
+          },
+          "h-gb-090": {
+            "value": "#004d4c",
+            "type": "color"
+          },
+          "h-gb-100": {
+            "value": "#002625",
+            "type": "color"
+          }
         },
-        "h-bb-030": {
-          "value": "#77bde7",
-          "type": "color"
-        },
-        "h-bb-040": {
-          "value": "#50a7da",
-          "type": "color"
-        },
-        "h-bb-050": {
-          "value": "#2890ce",
-          "type": "color"
-        },
-        "h-bb-060": {
-          "value": "#007ac2",
-          "type": "color"
-        },
-        "h-bb-070": {
-          "value": "#00619b",
-          "type": "color"
-        },
-        "h-bb-080": {
-          "value": "#004874",
-          "type": "color"
-        },
-        "h-bb-090": {
-          "value": "#00304d",
-          "type": "color"
-        },
-        "h-bb-100": {
-          "value": "#001726",
-          "type": "color"
+        "green": {
+          "h-gg-010": {
+            "value": "#bdf2c4",
+            "type": "color"
+          },
+          "h-gg-020": {
+            "value": "#a2e4ab",
+            "type": "color"
+          },
+          "h-gg-030": {
+            "value": "#87d692",
+            "type": "color"
+          },
+          "h-gg-040": {
+            "value": "#6bc878",
+            "type": "color"
+          },
+          "h-gg-050": {
+            "value": "#50ba5f",
+            "type": "color"
+          },
+          "h-gg-060": {
+            "value": "#35ac46",
+            "type": "color"
+          },
+          "h-gg-070": {
+            "value": "#288835",
+            "type": "color"
+          },
+          "h-gg-080": {
+            "value": "#1a6324",
+            "type": "color"
+          },
+          "h-gg-090": {
+            "value": "#0d3f14",
+            "type": "color"
+          },
+          "h-gg-100": {
+            "value": "#001a03",
+            "type": "color"
+          }
         }
       }
     }
