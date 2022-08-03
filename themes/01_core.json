@@ -1211,6 +1211,56 @@
               "type": "color"
             }
           }
+        },
+        "dark": {
+          "green": {
+            "d-gg-410": {
+              "value": "#44ED51",
+              "type": "color"
+            },
+            "d-gg-420": {
+              "value": "#36DA43",
+              "type": "color"
+            },
+            "d-gg-430": {
+              "value": "#36DA43",
+              "type": "color"
+            }
+          },
+          "yellow": {
+            "d-yy-410": {
+              "value": "#FFE24D",
+              "type": "color"
+            },
+            "d-yy-420": {
+              "value": "#FFC900",
+              "type": "color"
+            },
+            "d-yy-430": {
+              "value": "#F4B000",
+              "type": "color"
+            }
+          },
+          "red": {
+            "d-rr-410": {
+              "value": "#FF7465",
+              "type": "color"
+            },
+            "d-rr-420": {
+              "value": "#FE583E",
+              "type": "color"
+            },
+            "d-rr-430": {
+              "value": "#F3381B",
+              "type": "color"
+            }
+          },
+          "blue": {
+            "d-bb-420": {
+              "value": "#00A0FF",
+              "type": "color"
+            }
+          }
         }
       }
     }
