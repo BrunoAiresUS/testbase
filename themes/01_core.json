@@ -1256,8 +1256,16 @@
             }
           },
           "blue": {
+            "d-bb-410": {
+              "value": "#47BBFF",
+              "type": "color"
+            },
             "d-bb-420": {
               "value": "#00A0FF",
+              "type": "color"
+            },
+            "d-bb-430": {
+              "value": "#0087D7",
               "type": "color"
             }
           }
