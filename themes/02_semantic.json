@@ -264,7 +264,7 @@
             }
           },
           "hover": {
-            "light-copy": {
+            "light": {
               "value": "$core.color.palette.high-saturation.blue.h-bb-070",
               "type": "color"
             },
