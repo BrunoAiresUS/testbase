@@ -1,0 +1,28 @@
+{
+  "tokenSetOrder": [
+    "01_core",
+    "02_semantic",
+    "03_comp/alert-banner",
+    "03_comp/avatar",
+    "03_comp/body",
+    "03_comp/button",
+    "03_comp/checkbox",
+    "03_comp/code",
+    "03_comp/detail",
+    "03_comp/divider",
+    "03_comp/field-label",
+    "03_comp/heading",
+    "03_comp/help-text",
+    "03_comp/icon-button",
+    "03_comp/link",
+    "03_comp/menu-item",
+    "03_comp/radio",
+    "03_comp/switch",
+    "03_comp/tag",
+    "03_comp/text-field",
+    "Brand/01_Light",
+    "Brand/02_Dark",
+    "Calcite/01_Light",
+    "Calcite/02_Dark"
+  ]
+}
