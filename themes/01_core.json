@@ -337,16 +337,16 @@
         "value": "0%",
         "type": "opacity"
       },
-      "5": {
-        "value": "5%",
+      "4": {
+        "value": "4%",
+        "type": "opacity"
+      },
+      "8": {
+        "value": "8%",
         "type": "opacity"
       },
       "10": {
         "value": "10%",
-        "type": "opacity"
-      },
-      "15": {
-        "value": "15%",
         "type": "opacity"
       },
       "20": {
@@ -377,16 +377,16 @@
         "value": "80%",
         "type": "opacity"
       },
-      "85": {
-        "value": "85%",
-        "type": "opacity"
-      },
       "90": {
         "value": "90%",
         "type": "opacity"
       },
-      "95": {
-        "value": "95%",
+      "92": {
+        "value": "92%",
+        "type": "opacity"
+      },
+      "96": {
+        "value": "96%",
         "type": "opacity"
       },
       "100": {
@@ -1580,6 +1580,72 @@
           "type": "other",
           "description": "columns"
         }
+      }
+    },
+    "box-shadow": {
+      "0": {
+        "value": {
+          "x": "0",
+          "y": "0",
+          "blur": "0",
+          "spread": "0",
+          "color": "rgba($core.color.neutral.blk-240, $core.opacity.0)",
+          "type": "dropShadow"
+        },
+        "type": "boxShadow"
+      },
+      "1": {
+        "value": [
+          {
+            "x": "0",
+            "y": "2",
+            "blur": "8",
+            "spread": "0",
+            "color": "rgba($core.color.neutral.blk-240, $core.opacity.4)",
+            "type": "dropShadow"
+          },
+          {
+            "x": "0",
+            "y": "4",
+            "blur": "16",
+            "spread": "0",
+            "color": "rgba($core.color.neutral.blk-240, $core.opacity.8)",
+            "type": "dropShadow"
+          }
+        ],
+        "type": "boxShadow"
+      },
+      "2": {
+        "value": [
+          {
+            "x": "0",
+            "y": "4",
+            "blur": "20",
+            "spread": "0",
+            "color": "rgba($core.color.neutral.blk-240, $core.opacity.8)",
+            "type": "dropShadow"
+          },
+          {
+            "x": "0",
+            "y": "12",
+            "blur": "32",
+            "spread": "-2",
+            "color": "rgba($core.color.neutral.blk-240, $core.opacity.10)",
+            "type": "dropShadow"
+          }
+        ],
+        "type": "boxShadow"
+      },
+      "none": {
+        "value": {
+          "x": "0",
+          "y": "0",
+          "blur": "0",
+          "spread": "0",
+          "color": "rgba($core.color.neutral.blk-240, $core.opacity.0)",
+          "type": "dropShadow"
+        },
+        "type": "boxShadow"
       }
     }
   }
