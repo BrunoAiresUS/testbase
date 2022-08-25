@@ -8,5 +8,13 @@
         }
       }
     }
+  },
+  "breakpoint": {
+    "width": {
+      "lg": {
+        "value": "$core.breakpoint.width.lg",
+        "type": "sizing"
+      }
+    }
   }
 }

@@ -130,5 +130,14 @@
         "type": "color"
       }
     }
+  },
+  "breakpoint": {
+    "width": {
+      "lg": {
+        "value": "1920px",
+        "type": "sizing",
+        "description": "min-width"
+      }
+    }
   }
 }
