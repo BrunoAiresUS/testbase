@@ -439,7 +439,7 @@
         "danger": {
           "default": {
             "light": {
-              "value": "$core.color.palette.high-saturation.red-orange.h-ro-060",
+              "value": "$core.color.palette.high-saturation.red.h-rr-060",
               "type": "color"
             }
           },
