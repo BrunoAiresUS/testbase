@@ -1582,6 +1582,12 @@
         }
       }
     },
+    "z-index": {
+      "deep": {
+        "value": "-999999",
+        "type": "other"
+      }
+    },
     "box-shadow": {
       "0": {
         "value": {
