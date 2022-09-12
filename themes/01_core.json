@@ -1586,6 +1586,38 @@
       "deep": {
         "value": "-999999",
         "type": "other"
+      },
+      "default": {
+        "value": "1",
+        "type": "other"
+      },
+      "sticky": {
+        "value": "300",
+        "type": "other"
+      },
+      "header": {
+        "value": "400",
+        "type": "other"
+      },
+      "toast": {
+        "value": "500",
+        "type": "other"
+      },
+      "dropdown": {
+        "value": "600",
+        "type": "other"
+      },
+      "overlay": {
+        "value": "700",
+        "type": "other"
+      },
+      "modal": {
+        "value": "800",
+        "type": "other"
+      },
+      "popup": {
+        "value": "900",
+        "type": "other"
       }
     },
     "box-shadow": {
