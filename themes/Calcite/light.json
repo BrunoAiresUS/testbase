@@ -6,7 +6,7 @@
         "type": "color"
       },
       "hover": {
-        "value": "{semantic.ui.color.brand.hover.light}",
+        "value": "$semantic.ui.color.brand.hover.light",
         "type": "color"
       },
       "press": {
@@ -128,15 +128,6 @@
       "press": {
         "value": "$core.color.palette.high-saturation.red.h-rr-080",
         "type": "color"
-      }
-    }
-  },
-  "breakpoint": {
-    "width": {
-      "lg": {
-        "value": "1920px",
-        "type": "sizing",
-        "description": "min-width"
       }
     }
   }

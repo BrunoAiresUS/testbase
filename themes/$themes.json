@@ -3,13 +3,16 @@
     "id": "ed0c822a9f81dad2733717990c607c1527803a14",
     "name": "Calcite - Light mode",
     "selectedTokenSets": {
-      "01_core": "source",
-      "02_semantic": "enabled",
-      "03_comp/button": "enabled",
-      "Calcite/01_Light": "enabled",
-      "Calcite/02_Dark": "disabled",
-      "Brand/02_Dark": "disabled",
-      "Brand/01_Light": "disabled"
+      "core": "source",
+      "semantic": "enabled",
+      "Brand/light": "disabled",
+      "Brand/dark": "disabled",
+      "Calcite/light": "enabled",
+      "Calcite/dark": "disabled",
+      "comp/avatar": "disabled",
+      "comp/checkbox": "disabled",
+      "comp/chip": "disabled",
+      "comp/radio": "disabled"
     },
     "$figmaStyleReferences": {}
   },
@@ -17,41 +20,16 @@
     "id": "dde8954f0b730e49860d3c5e7608e7601dd1ed8a",
     "name": "Calcite - Dark mode",
     "selectedTokenSets": {
-      "01_core": "source",
-      "02_semantic": "enabled",
-      "03_comp/button": "enabled",
-      "Calcite/01_Light": "disabled",
-      "Calcite/02_Dark": "enabled",
-      "Brand/02_Dark": "disabled",
-      "Brand/01_Light": "disabled"
-    },
-    "$figmaStyleReferences": {}
-  },
-  {
-    "id": "5406d126c740c1d85e5b2956d4f6c1e02157dcb6",
-    "name": "Marketing - Light mode",
-    "selectedTokenSets": {
-      "01_core": "source",
-      "02_semantic": "enabled",
-      "03_comp/button": "enabled",
-      "Calcite/01_Light": "disabled",
-      "Calcite/02_Dark": "disabled",
-      "Brand/02_Dark": "disabled",
-      "Brand/01_Light": "enabled"
-    },
-    "$figmaStyleReferences": {}
-  },
-  {
-    "id": "d91ba3facd026fc264f74d14824e1ab0bf59fd5f",
-    "name": "Marketing - Dark mode",
-    "selectedTokenSets": {
-      "01_core": "source",
-      "02_semantic": "enabled",
-      "03_comp/button": "enabled",
-      "Calcite/01_Light": "disabled",
-      "Calcite/02_Dark": "disabled",
-      "Brand/02_Dark": "enabled",
-      "Brand/01_Light": "disabled"
+      "core": "source",
+      "semantic": "enabled",
+      "Brand/light": "disabled",
+      "Brand/dark": "disabled",
+      "Calcite/light": "disabled",
+      "Calcite/dark": "enabled",
+      "comp/avatar": "disabled",
+      "comp/checkbox": "disabled",
+      "comp/chip": "disabled",
+      "comp/radio": "disabled"
     },
     "$figmaStyleReferences": {}
   },
@@ -59,13 +37,16 @@
     "id": "f3768dee38b252f1dfdddfb3f2fde9782d3560bc",
     "name": "Calcite Headless",
     "selectedTokenSets": {
-      "01_core": "enabled",
-      "02_semantic": "enabled",
-      "03_comp/button": "enabled",
-      "Calcite/01_Light": "disabled",
-      "Calcite/02_Dark": "disabled",
-      "Brand/02_Dark": "disabled",
-      "Brand/01_Light": "disabled"
+      "core": "enabled",
+      "semantic": "enabled",
+      "Brand/light": "disabled",
+      "Brand/dark": "disabled",
+      "Calcite/light": "disabled",
+      "Calcite/dark": "disabled",
+      "comp/avatar": "enabled",
+      "comp/checkbox": "enabled",
+      "comp/chip": "enabled",
+      "comp/radio": "enabled"
     },
     "$figmaStyleReferences": {}
   }

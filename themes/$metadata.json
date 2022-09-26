@@ -1,11 +1,14 @@
 {
   "tokenSetOrder": [
-    "01_core",
-    "02_semantic",
-    "03_comp/button",
-    "Brand/01_Light",
-    "Brand/02_Dark",
-    "Calcite/01_Light",
-    "Calcite/02_Dark"
+    "core",
+    "semantic",
+    "comp/avatar",
+    "comp/checkbox",
+    "comp/chip",
+    "comp/radio",
+    "Brand/light",
+    "Brand/dark",
+    "Calcite/light",
+    "Calcite/dark"
   ]
 }
