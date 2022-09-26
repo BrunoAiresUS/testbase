@@ -10,19 +10,7 @@
           "value": "$core.font.font-family.primary",
           "type": "fontFamilies"
         },
-        "subheading": {
-          "value": "$core.font.font-family.primary",
-          "type": "fontFamilies"
-        },
-        "paragraph": {
-          "value": "$core.font.font-family.primary",
-          "type": "fontFamilies"
-        },
         "body": {
-          "value": "$core.font.font-family.primary",
-          "type": "fontFamilies"
-        },
-        "label": {
           "value": "$core.font.font-family.primary",
           "type": "fontFamilies"
         },
@@ -48,19 +36,7 @@
           "value": "$core.font.font-weight.medium",
           "type": "fontWeights"
         },
-        "subheading": {
-          "value": "$core.font.font-weight.medium",
-          "type": "fontWeights"
-        },
-        "paragraph": {
-          "value": "$core.font.font-weight.regular",
-          "type": "fontWeights"
-        },
         "body": {
-          "value": "$core.font.font-weight.regular",
-          "type": "fontWeights"
-        },
-        "label": {
           "value": "$core.font.font-weight.regular",
           "type": "fontWeights"
         },
