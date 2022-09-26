@@ -6,9 +6,10 @@
     "comp/checkbox",
     "comp/chip",
     "comp/radio",
-    "Brand/light",
-    "Brand/dark",
-    "Calcite/light",
-    "Calcite/dark"
+    "calcite/light",
+    "calcite/dark",
+    "brand/global",
+    "brand/light",
+    "brand/dark"
   ]
 }

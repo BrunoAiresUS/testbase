@@ -1,18 +1,19 @@
 [
   {
-    "id": "ed0c822a9f81dad2733717990c607c1527803a14",
-    "name": "Calcite - Light mode",
+    "id": "f3768dee38b252f1dfdddfb3f2fde9782d3560bc",
+    "name": "Calcite Headless",
     "selectedTokenSets": {
-      "core": "source",
+      "core": "enabled",
       "semantic": "enabled",
-      "Brand/light": "disabled",
-      "Brand/dark": "disabled",
-      "Calcite/light": "enabled",
-      "Calcite/dark": "disabled",
-      "comp/avatar": "disabled",
-      "comp/checkbox": "disabled",
-      "comp/chip": "disabled",
-      "comp/radio": "disabled"
+      "comp/avatar": "enabled",
+      "comp/checkbox": "enabled",
+      "comp/chip": "enabled",
+      "comp/radio": "enabled",
+      "brand/light": "disabled",
+      "brand/dark": "disabled",
+      "calcite/light": "disabled",
+      "calcite/dark": "disabled",
+      "brand/global": "disabled"
     },
     "$figmaStyleReferences": {}
   },
@@ -21,32 +22,34 @@
     "name": "Calcite - Dark mode",
     "selectedTokenSets": {
       "core": "source",
-      "semantic": "enabled",
-      "Brand/light": "disabled",
-      "Brand/dark": "disabled",
-      "Calcite/light": "disabled",
-      "Calcite/dark": "enabled",
+      "semantic": "source",
       "comp/avatar": "disabled",
       "comp/checkbox": "disabled",
       "comp/chip": "disabled",
-      "comp/radio": "disabled"
+      "comp/radio": "disabled",
+      "brand/light": "disabled",
+      "brand/dark": "disabled",
+      "calcite/light": "disabled",
+      "calcite/dark": "enabled",
+      "brand/global": "disabled"
     },
     "$figmaStyleReferences": {}
   },
   {
-    "id": "f3768dee38b252f1dfdddfb3f2fde9782d3560bc",
-    "name": "Calcite Headless",
+    "id": "ed0c822a9f81dad2733717990c607c1527803a14",
+    "name": "Calcite - Light mode",
     "selectedTokenSets": {
-      "core": "enabled",
-      "semantic": "enabled",
-      "Brand/light": "disabled",
-      "Brand/dark": "disabled",
-      "Calcite/light": "disabled",
-      "Calcite/dark": "disabled",
-      "comp/avatar": "enabled",
-      "comp/checkbox": "enabled",
-      "comp/chip": "enabled",
-      "comp/radio": "enabled"
+      "core": "source",
+      "semantic": "source",
+      "comp/avatar": "disabled",
+      "comp/checkbox": "disabled",
+      "comp/chip": "disabled",
+      "comp/radio": "disabled",
+      "brand/light": "disabled",
+      "brand/dark": "disabled",
+      "calcite/light": "enabled",
+      "calcite/dark": "disabled",
+      "brand/global": "disabled"
     },
     "$figmaStyleReferences": {}
   }
