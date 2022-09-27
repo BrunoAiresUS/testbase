@@ -358,7 +358,7 @@
         }
       },
       "regular": {
-        "text--3h": {
+        "-3h": {
           "value": {
             "fontFamily": "$core.font.font-family.primary",
             "fontWeight": "$core.font.font-weight.regular",
@@ -371,7 +371,7 @@
           },
           "type": "typography"
         },
-        "text--2h": {
+        "-2h": {
           "value": {
             "fontFamily": "$core.font.font-family.primary",
             "fontWeight": "$core.font.font-weight.regular",
@@ -384,7 +384,7 @@
           },
           "type": "typography"
         },
-        "text--1h": {
+        "-1h": {
           "value": {
             "fontFamily": "$core.font.font-family.primary",
             "fontWeight": "$core.font.font-weight.regular",
@@ -397,7 +397,7 @@
           },
           "type": "typography"
         },
-        "text-0h": {
+        "0h": {
           "value": {
             "fontFamily": "$core.font.font-family.primary",
             "fontWeight": "$core.font.font-weight.regular",
@@ -410,7 +410,7 @@
           },
           "type": "typography"
         },
-        "text-1h": {
+        "1h": {
           "value": {
             "fontFamily": "$core.font.font-family.primary",
             "fontWeight": "$core.font.font-weight.regular",
@@ -423,7 +423,7 @@
           },
           "type": "typography"
         },
-        "text-2h": {
+        "2h": {
           "value": {
             "fontFamily": "$core.font.font-family.primary",
             "fontWeight": "$core.font.font-weight.regular",
@@ -436,7 +436,7 @@
           },
           "type": "typography"
         },
-        "text-3h": {
+        "3h": {
           "value": {
             "fontFamily": "$core.font.font-family.primary",
             "fontWeight": "$core.font.font-weight.regular",
@@ -449,7 +449,7 @@
           },
           "type": "typography"
         },
-        "text-4h": {
+        "4h": {
           "value": {
             "fontFamily": "$core.font.font-family.primary",
             "fontWeight": "$core.font.font-weight.regular",
@@ -462,7 +462,7 @@
           },
           "type": "typography"
         },
-        "text-5h": {
+        "5h": {
           "value": {
             "fontFamily": "$core.font.font-family.primary",
             "fontWeight": "$core.font.font-weight.regular",
@@ -475,7 +475,7 @@
           },
           "type": "typography"
         },
-        "text-6h": {
+        "6h": {
           "value": {
             "fontFamily": "$core.font.font-family.primary",
             "fontWeight": "$core.font.font-weight.regular",
@@ -488,7 +488,7 @@
           },
           "type": "typography"
         },
-        "text-7h": {
+        "7h": {
           "value": {
             "fontFamily": "$core.font.font-family.primary",
             "fontWeight": "$core.font.font-weight.regular",
@@ -501,7 +501,7 @@
           },
           "type": "typography"
         },
-        "text-8h": {
+        "8h": {
           "value": {
             "fontFamily": "$core.font.font-family.primary",
             "fontWeight": "$core.font.font-weight.regular",
@@ -516,7 +516,7 @@
         }
       },
       "medium": {
-        "text--3h": {
+        "-3h": {
           "value": {
             "fontFamily": "$core.font.font-family.primary",
             "fontWeight": "$core.font.font-weight.medium",
@@ -529,7 +529,7 @@
           },
           "type": "typography"
         },
-        "text--2h": {
+        "-2h": {
           "value": {
             "fontFamily": "$core.font.font-family.primary",
             "fontWeight": "$core.font.font-weight.medium",
@@ -542,7 +542,7 @@
           },
           "type": "typography"
         },
-        "text--1h": {
+        "-1h": {
           "value": {
             "fontFamily": "$core.font.font-family.primary",
             "fontWeight": "$core.font.font-weight.medium",
@@ -555,7 +555,7 @@
           },
           "type": "typography"
         },
-        "text-0h": {
+        "0h": {
           "value": {
             "fontFamily": "$core.font.font-family.primary",
             "fontWeight": "$core.font.font-weight.medium",
@@ -568,7 +568,7 @@
           },
           "type": "typography"
         },
-        "text-1h": {
+        "1h": {
           "value": {
             "fontFamily": "$core.font.font-family.primary",
             "fontWeight": "$core.font.font-weight.medium",
@@ -581,7 +581,7 @@
           },
           "type": "typography"
         },
-        "text-2h": {
+        "2h": {
           "value": {
             "fontFamily": "$core.font.font-family.primary",
             "fontWeight": "$core.font.font-weight.medium",
@@ -594,7 +594,7 @@
           },
           "type": "typography"
         },
-        "text-3h": {
+        "3h": {
           "value": {
             "fontFamily": "$core.font.font-family.primary",
             "fontWeight": "$core.font.font-weight.medium",
@@ -607,7 +607,7 @@
           },
           "type": "typography"
         },
-        "text-4h": {
+        "4h": {
           "value": {
             "fontFamily": "$core.font.font-family.primary",
             "fontWeight": "$core.font.font-weight.medium",
@@ -620,7 +620,7 @@
           },
           "type": "typography"
         },
-        "text-5h": {
+        "5h": {
           "value": {
             "fontFamily": "$core.font.font-family.primary",
             "fontWeight": "$core.font.font-weight.medium",
@@ -633,7 +633,7 @@
           },
           "type": "typography"
         },
-        "text-6h": {
+        "6h": {
           "value": {
             "fontFamily": "$core.font.font-family.primary",
             "fontWeight": "$core.font.font-weight.medium",
@@ -646,7 +646,7 @@
           },
           "type": "typography"
         },
-        "text-7h": {
+        "7h": {
           "value": {
             "fontFamily": "$core.font.font-family.primary",
             "fontWeight": "$core.font.font-weight.medium",
@@ -659,7 +659,7 @@
           },
           "type": "typography"
         },
-        "text-8h": {
+        "8h": {
           "value": {
             "fontFamily": "$core.font.font-family.primary",
             "fontWeight": "$core.font.font-weight.medium",
@@ -674,7 +674,7 @@
         }
       },
       "bold": {
-        "text--3h": {
+        "-3h": {
           "value": {
             "fontFamily": "$core.font.font-family.primary",
             "fontWeight": "$core.font.font-weight.bold",
@@ -687,7 +687,7 @@
           },
           "type": "typography"
         },
-        "text--2h": {
+        "-2h": {
           "value": {
             "fontFamily": "$core.font.font-family.primary",
             "fontWeight": "$core.font.font-weight.bold",
@@ -700,7 +700,7 @@
           },
           "type": "typography"
         },
-        "text--1h": {
+        "-1h": {
           "value": {
             "fontFamily": "$core.font.font-family.primary",
             "fontWeight": "$core.font.font-weight.bold",
@@ -713,7 +713,7 @@
           },
           "type": "typography"
         },
-        "text-0h": {
+        "0h": {
           "value": {
             "fontFamily": "$core.font.font-family.primary",
             "fontWeight": "$core.font.font-weight.bold",
@@ -726,7 +726,7 @@
           },
           "type": "typography"
         },
-        "text-1h": {
+        "1h": {
           "value": {
             "fontFamily": "$core.font.font-family.primary",
             "fontWeight": "$core.font.font-weight.bold",
@@ -739,7 +739,7 @@
           },
           "type": "typography"
         },
-        "text-2h": {
+        "2h": {
           "value": {
             "fontFamily": "$core.font.font-family.primary",
             "fontWeight": "$core.font.font-weight.bold",
@@ -752,7 +752,7 @@
           },
           "type": "typography"
         },
-        "text-3h": {
+        "3h": {
           "value": {
             "fontFamily": "$core.font.font-family.primary",
             "fontWeight": "$core.font.font-weight.bold",
@@ -765,7 +765,7 @@
           },
           "type": "typography"
         },
-        "text-4h": {
+        "4h": {
           "value": {
             "fontFamily": "$core.font.font-family.primary",
             "fontWeight": "$core.font.font-weight.bold",
@@ -778,7 +778,7 @@
           },
           "type": "typography"
         },
-        "text-5h": {
+        "5h": {
           "value": {
             "fontFamily": "$core.font.font-family.primary",
             "fontWeight": "$core.font.font-weight.bold",
@@ -791,7 +791,7 @@
           },
           "type": "typography"
         },
-        "text-6h": {
+        "6h": {
           "value": {
             "fontFamily": "$core.font.font-family.primary",
             "fontWeight": "$core.font.font-weight.bold",
@@ -804,7 +804,7 @@
           },
           "type": "typography"
         },
-        "text-7h": {
+        "7h": {
           "value": {
             "fontFamily": "$core.font.font-family.primary",
             "fontWeight": "$core.font.font-weight.bold",
@@ -817,7 +817,7 @@
           },
           "type": "typography"
         },
-        "text-8h": {
+        "8h": {
           "value": {
             "fontFamily": "$core.font.font-family.primary",
             "fontWeight": "$core.font.font-weight.bold",
