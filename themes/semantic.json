@@ -356,6 +356,480 @@
           },
           "type": "typography"
         }
+      },
+      "regular": {
+        "text--3h": {
+          "value": {
+            "fontFamily": "$core.font.font-family.primary",
+            "fontWeight": "$core.font.font-weight.regular",
+            "lineHeight": "$core.font.line-height.fixed.0",
+            "fontSize": "$core.font.font-size.0",
+            "letterSpacing": "$core.font.letter-spacing.normal",
+            "paragraphSpacing": "$core.font.paragraph-spacing.normal",
+            "textDecoration": "$core.font.text-decoration.none",
+            "textCase": "$core.font.text-case.none"
+          },
+          "type": "typography"
+        },
+        "text--2h": {
+          "value": {
+            "fontFamily": "$core.font.font-family.primary",
+            "fontWeight": "$core.font.font-weight.regular",
+            "lineHeight": "$core.font.line-height.fixed.1",
+            "fontSize": "$core.font.font-size.1",
+            "letterSpacing": "$core.font.letter-spacing.normal",
+            "paragraphSpacing": "$core.font.paragraph-spacing.normal",
+            "textDecoration": "$core.font.text-decoration.none",
+            "textCase": "$core.font.text-case.none"
+          },
+          "type": "typography"
+        },
+        "text--1h": {
+          "value": {
+            "fontFamily": "$core.font.font-family.primary",
+            "fontWeight": "$core.font.font-weight.regular",
+            "lineHeight": "$core.font.line-height.fixed.1",
+            "fontSize": "$core.font.font-size.2",
+            "letterSpacing": "$core.font.letter-spacing.normal",
+            "paragraphSpacing": "$core.font.paragraph-spacing.normal",
+            "textDecoration": "$core.font.text-decoration.none",
+            "textCase": "$core.font.text-case.none"
+          },
+          "type": "typography"
+        },
+        "text-0h": {
+          "value": {
+            "fontFamily": "$core.font.font-family.primary",
+            "fontWeight": "$core.font.font-weight.regular",
+            "lineHeight": "$core.font.line-height.fixed.2",
+            "fontSize": "$core.font.font-size.3",
+            "letterSpacing": "$core.font.letter-spacing.normal",
+            "paragraphSpacing": "$core.font.paragraph-spacing.normal",
+            "textDecoration": "$core.font.text-decoration.none",
+            "textCase": "$core.font.text-case.none"
+          },
+          "type": "typography"
+        },
+        "text-1h": {
+          "value": {
+            "fontFamily": "$core.font.font-family.primary",
+            "fontWeight": "$core.font.font-weight.regular",
+            "lineHeight": "$core.font.line-height.fixed.3",
+            "fontSize": "$core.font.font-size.4",
+            "letterSpacing": "$core.font.letter-spacing.normal",
+            "paragraphSpacing": "$core.font.paragraph-spacing.normal",
+            "textDecoration": "$core.font.text-decoration.none",
+            "textCase": "$core.font.text-case.none"
+          },
+          "type": "typography"
+        },
+        "text-2h": {
+          "value": {
+            "fontFamily": "$core.font.font-family.primary",
+            "fontWeight": "$core.font.font-weight.regular",
+            "lineHeight": "$core.font.line-height.fixed.3",
+            "fontSize": "$core.font.font-size.5",
+            "letterSpacing": "$core.font.letter-spacing.normal",
+            "paragraphSpacing": "$core.font.paragraph-spacing.normal",
+            "textDecoration": "$core.font.text-decoration.none",
+            "textCase": "$core.font.text-case.none"
+          },
+          "type": "typography"
+        },
+        "text-3h": {
+          "value": {
+            "fontFamily": "$core.font.font-family.primary",
+            "fontWeight": "$core.font.font-weight.regular",
+            "lineHeight": "$core.font.line-height.fixed.5",
+            "fontSize": "$core.font.font-size.6",
+            "letterSpacing": "$core.font.letter-spacing.normal",
+            "paragraphSpacing": "$core.font.paragraph-spacing.normal",
+            "textDecoration": "$core.font.text-decoration.none",
+            "textCase": "$core.font.text-case.none"
+          },
+          "type": "typography"
+        },
+        "text-4h": {
+          "value": {
+            "fontFamily": "$core.font.font-family.primary",
+            "fontWeight": "$core.font.font-weight.regular",
+            "lineHeight": "$core.font.line-height.fixed.7",
+            "fontSize": "$core.font.font-size.7",
+            "letterSpacing": "$core.font.letter-spacing.normal",
+            "paragraphSpacing": "$core.font.paragraph-spacing.normal",
+            "textDecoration": "$core.font.text-decoration.none",
+            "textCase": "$core.font.text-case.none"
+          },
+          "type": "typography"
+        },
+        "text-5h": {
+          "value": {
+            "fontFamily": "$core.font.font-family.primary",
+            "fontWeight": "$core.font.font-weight.regular",
+            "lineHeight": "$core.font.line-height.fixed.8",
+            "fontSize": "$core.font.font-size.8",
+            "letterSpacing": "$core.font.letter-spacing.normal",
+            "paragraphSpacing": "$core.font.paragraph-spacing.normal",
+            "textDecoration": "$core.font.text-decoration.none",
+            "textCase": "$core.font.text-case.none"
+          },
+          "type": "typography"
+        },
+        "text-6h": {
+          "value": {
+            "fontFamily": "$core.font.font-family.primary",
+            "fontWeight": "$core.font.font-weight.regular",
+            "lineHeight": "$core.font.line-height.fixed.10",
+            "fontSize": "$core.font.font-size.9",
+            "letterSpacing": "$core.font.letter-spacing.normal",
+            "paragraphSpacing": "$core.font.paragraph-spacing.normal",
+            "textDecoration": "$core.font.text-decoration.none",
+            "textCase": "$core.font.text-case.none"
+          },
+          "type": "typography"
+        },
+        "text-7h": {
+          "value": {
+            "fontFamily": "$core.font.font-family.primary",
+            "fontWeight": "$core.font.font-weight.regular",
+            "lineHeight": "$core.font.line-height.fixed.10",
+            "fontSize": "$core.font.font-size.10",
+            "letterSpacing": "$core.font.letter-spacing.normal",
+            "paragraphSpacing": "$core.font.paragraph-spacing.normal",
+            "textDecoration": "$core.font.text-decoration.none",
+            "textCase": "$core.font.text-case.none"
+          },
+          "type": "typography"
+        },
+        "text-8h": {
+          "value": {
+            "fontFamily": "$core.font.font-family.primary",
+            "fontWeight": "$core.font.font-weight.regular",
+            "lineHeight": "$core.font.line-height.fixed.12",
+            "fontSize": "$core.font.font-size.11",
+            "letterSpacing": "$core.font.letter-spacing.normal",
+            "paragraphSpacing": "$core.font.paragraph-spacing.normal",
+            "textDecoration": "$core.font.text-decoration.none",
+            "textCase": "$core.font.text-case.none"
+          },
+          "type": "typography"
+        }
+      },
+      "medium": {
+        "text--3h": {
+          "value": {
+            "fontFamily": "$core.font.font-family.primary",
+            "fontWeight": "$core.font.font-weight.medium",
+            "lineHeight": "$core.font.line-height.fixed.0",
+            "fontSize": "$core.font.font-size.0",
+            "letterSpacing": "$core.font.letter-spacing.normal",
+            "paragraphSpacing": "$core.font.paragraph-spacing.normal",
+            "textDecoration": "$core.font.text-decoration.none",
+            "textCase": "$core.font.text-case.none"
+          },
+          "type": "typography"
+        },
+        "text--2h": {
+          "value": {
+            "fontFamily": "$core.font.font-family.primary",
+            "fontWeight": "$core.font.font-weight.medium",
+            "lineHeight": "$core.font.line-height.fixed.1",
+            "fontSize": "$core.font.font-size.1",
+            "letterSpacing": "$core.font.letter-spacing.normal",
+            "paragraphSpacing": "$core.font.paragraph-spacing.normal",
+            "textDecoration": "$core.font.text-decoration.none",
+            "textCase": "$core.font.text-case.none"
+          },
+          "type": "typography"
+        },
+        "text--1h": {
+          "value": {
+            "fontFamily": "$core.font.font-family.primary",
+            "fontWeight": "$core.font.font-weight.medium",
+            "lineHeight": "$core.font.line-height.fixed.1",
+            "fontSize": "$core.font.font-size.2",
+            "letterSpacing": "$core.font.letter-spacing.normal",
+            "paragraphSpacing": "$core.font.paragraph-spacing.normal",
+            "textDecoration": "$core.font.text-decoration.none",
+            "textCase": "$core.font.text-case.none"
+          },
+          "type": "typography"
+        },
+        "text-0h": {
+          "value": {
+            "fontFamily": "$core.font.font-family.primary",
+            "fontWeight": "$core.font.font-weight.medium",
+            "lineHeight": "$core.font.line-height.fixed.2",
+            "fontSize": "$core.font.font-size.3",
+            "letterSpacing": "$core.font.letter-spacing.normal",
+            "paragraphSpacing": "$core.font.paragraph-spacing.normal",
+            "textDecoration": "$core.font.text-decoration.none",
+            "textCase": "$core.font.text-case.none"
+          },
+          "type": "typography"
+        },
+        "text-1h": {
+          "value": {
+            "fontFamily": "$core.font.font-family.primary",
+            "fontWeight": "$core.font.font-weight.medium",
+            "lineHeight": "$core.font.line-height.fixed.3",
+            "fontSize": "$core.font.font-size.4",
+            "letterSpacing": "$core.font.letter-spacing.normal",
+            "paragraphSpacing": "$core.font.paragraph-spacing.normal",
+            "textDecoration": "$core.font.text-decoration.none",
+            "textCase": "$core.font.text-case.none"
+          },
+          "type": "typography"
+        },
+        "text-2h": {
+          "value": {
+            "fontFamily": "$core.font.font-family.primary",
+            "fontWeight": "$core.font.font-weight.medium",
+            "lineHeight": "$core.font.line-height.fixed.3",
+            "fontSize": "$core.font.font-size.5",
+            "letterSpacing": "$core.font.letter-spacing.normal",
+            "paragraphSpacing": "$core.font.paragraph-spacing.normal",
+            "textDecoration": "$core.font.text-decoration.none",
+            "textCase": "$core.font.text-case.none"
+          },
+          "type": "typography"
+        },
+        "text-3h": {
+          "value": {
+            "fontFamily": "$core.font.font-family.primary",
+            "fontWeight": "$core.font.font-weight.medium",
+            "lineHeight": "$core.font.line-height.fixed.5",
+            "fontSize": "$core.font.font-size.6",
+            "letterSpacing": "$core.font.letter-spacing.normal",
+            "paragraphSpacing": "$core.font.paragraph-spacing.normal",
+            "textDecoration": "$core.font.text-decoration.none",
+            "textCase": "$core.font.text-case.none"
+          },
+          "type": "typography"
+        },
+        "text-4h": {
+          "value": {
+            "fontFamily": "$core.font.font-family.primary",
+            "fontWeight": "$core.font.font-weight.medium",
+            "lineHeight": "$core.font.line-height.fixed.7",
+            "fontSize": "$core.font.font-size.7",
+            "letterSpacing": "$core.font.letter-spacing.normal",
+            "paragraphSpacing": "$core.font.paragraph-spacing.normal",
+            "textDecoration": "$core.font.text-decoration.none",
+            "textCase": "$core.font.text-case.none"
+          },
+          "type": "typography"
+        },
+        "text-5h": {
+          "value": {
+            "fontFamily": "$core.font.font-family.primary",
+            "fontWeight": "$core.font.font-weight.medium",
+            "lineHeight": "$core.font.line-height.fixed.8",
+            "fontSize": "$core.font.font-size.8",
+            "letterSpacing": "$core.font.letter-spacing.normal",
+            "paragraphSpacing": "$core.font.paragraph-spacing.normal",
+            "textDecoration": "$core.font.text-decoration.none",
+            "textCase": "$core.font.text-case.none"
+          },
+          "type": "typography"
+        },
+        "text-6h": {
+          "value": {
+            "fontFamily": "$core.font.font-family.primary",
+            "fontWeight": "$core.font.font-weight.medium",
+            "lineHeight": "$core.font.line-height.fixed.10",
+            "fontSize": "$core.font.font-size.9",
+            "letterSpacing": "$core.font.letter-spacing.normal",
+            "paragraphSpacing": "$core.font.paragraph-spacing.normal",
+            "textDecoration": "$core.font.text-decoration.none",
+            "textCase": "$core.font.text-case.none"
+          },
+          "type": "typography"
+        },
+        "text-7h": {
+          "value": {
+            "fontFamily": "$core.font.font-family.primary",
+            "fontWeight": "$core.font.font-weight.medium",
+            "lineHeight": "$core.font.line-height.fixed.10",
+            "fontSize": "$core.font.font-size.10",
+            "letterSpacing": "$core.font.letter-spacing.normal",
+            "paragraphSpacing": "$core.font.paragraph-spacing.normal",
+            "textDecoration": "$core.font.text-decoration.none",
+            "textCase": "$core.font.text-case.none"
+          },
+          "type": "typography"
+        },
+        "text-8h": {
+          "value": {
+            "fontFamily": "$core.font.font-family.primary",
+            "fontWeight": "$core.font.font-weight.medium",
+            "lineHeight": "$core.font.line-height.fixed.12",
+            "fontSize": "$core.font.font-size.11",
+            "letterSpacing": "$core.font.letter-spacing.normal",
+            "paragraphSpacing": "$core.font.paragraph-spacing.normal",
+            "textDecoration": "$core.font.text-decoration.none",
+            "textCase": "$core.font.text-case.none"
+          },
+          "type": "typography"
+        }
+      },
+      "bold": {
+        "text--3h": {
+          "value": {
+            "fontFamily": "$core.font.font-family.primary",
+            "fontWeight": "$core.font.font-weight.bold",
+            "lineHeight": "$core.font.line-height.fixed.0",
+            "fontSize": "$core.font.font-size.0",
+            "letterSpacing": "$core.font.letter-spacing.normal",
+            "paragraphSpacing": "$core.font.paragraph-spacing.normal",
+            "textDecoration": "$core.font.text-decoration.none",
+            "textCase": "$core.font.text-case.none"
+          },
+          "type": "typography"
+        },
+        "text--2h": {
+          "value": {
+            "fontFamily": "$core.font.font-family.primary",
+            "fontWeight": "$core.font.font-weight.bold",
+            "lineHeight": "$core.font.line-height.fixed.1",
+            "fontSize": "$core.font.font-size.1",
+            "letterSpacing": "$core.font.letter-spacing.normal",
+            "paragraphSpacing": "$core.font.paragraph-spacing.normal",
+            "textDecoration": "$core.font.text-decoration.none",
+            "textCase": "$core.font.text-case.none"
+          },
+          "type": "typography"
+        },
+        "text--1h": {
+          "value": {
+            "fontFamily": "$core.font.font-family.primary",
+            "fontWeight": "$core.font.font-weight.bold",
+            "lineHeight": "$core.font.line-height.fixed.1",
+            "fontSize": "$core.font.font-size.2",
+            "letterSpacing": "$core.font.letter-spacing.normal",
+            "paragraphSpacing": "$core.font.paragraph-spacing.normal",
+            "textDecoration": "$core.font.text-decoration.none",
+            "textCase": "$core.font.text-case.none"
+          },
+          "type": "typography"
+        },
+        "text-0h": {
+          "value": {
+            "fontFamily": "$core.font.font-family.primary",
+            "fontWeight": "$core.font.font-weight.bold",
+            "lineHeight": "$core.font.line-height.fixed.2",
+            "fontSize": "$core.font.font-size.3",
+            "letterSpacing": "$core.font.letter-spacing.normal",
+            "paragraphSpacing": "$core.font.paragraph-spacing.normal",
+            "textDecoration": "$core.font.text-decoration.none",
+            "textCase": "$core.font.text-case.none"
+          },
+          "type": "typography"
+        },
+        "text-1h": {
+          "value": {
+            "fontFamily": "$core.font.font-family.primary",
+            "fontWeight": "$core.font.font-weight.bold",
+            "lineHeight": "$core.font.line-height.fixed.3",
+            "fontSize": "$core.font.font-size.4",
+            "letterSpacing": "$core.font.letter-spacing.normal",
+            "paragraphSpacing": "$core.font.paragraph-spacing.normal",
+            "textDecoration": "$core.font.text-decoration.none",
+            "textCase": "$core.font.text-case.none"
+          },
+          "type": "typography"
+        },
+        "text-2h": {
+          "value": {
+            "fontFamily": "$core.font.font-family.primary",
+            "fontWeight": "$core.font.font-weight.bold",
+            "lineHeight": "$core.font.line-height.fixed.3",
+            "fontSize": "$core.font.font-size.5",
+            "letterSpacing": "$core.font.letter-spacing.normal",
+            "paragraphSpacing": "$core.font.paragraph-spacing.normal",
+            "textDecoration": "$core.font.text-decoration.none",
+            "textCase": "$core.font.text-case.none"
+          },
+          "type": "typography"
+        },
+        "text-3h": {
+          "value": {
+            "fontFamily": "$core.font.font-family.primary",
+            "fontWeight": "$core.font.font-weight.bold",
+            "lineHeight": "$core.font.line-height.fixed.5",
+            "fontSize": "$core.font.font-size.6",
+            "letterSpacing": "$core.font.letter-spacing.normal",
+            "paragraphSpacing": "$core.font.paragraph-spacing.normal",
+            "textDecoration": "$core.font.text-decoration.none",
+            "textCase": "$core.font.text-case.none"
+          },
+          "type": "typography"
+        },
+        "text-4h": {
+          "value": {
+            "fontFamily": "$core.font.font-family.primary",
+            "fontWeight": "$core.font.font-weight.bold",
+            "lineHeight": "$core.font.line-height.fixed.7",
+            "fontSize": "$core.font.font-size.7",
+            "letterSpacing": "$core.font.letter-spacing.normal",
+            "paragraphSpacing": "$core.font.paragraph-spacing.normal",
+            "textDecoration": "$core.font.text-decoration.none",
+            "textCase": "$core.font.text-case.none"
+          },
+          "type": "typography"
+        },
+        "text-5h": {
+          "value": {
+            "fontFamily": "$core.font.font-family.primary",
+            "fontWeight": "$core.font.font-weight.bold",
+            "lineHeight": "$core.font.line-height.fixed.8",
+            "fontSize": "$core.font.font-size.8",
+            "letterSpacing": "$core.font.letter-spacing.normal",
+            "paragraphSpacing": "$core.font.paragraph-spacing.normal",
+            "textDecoration": "$core.font.text-decoration.none",
+            "textCase": "$core.font.text-case.none"
+          },
+          "type": "typography"
+        },
+        "text-6h": {
+          "value": {
+            "fontFamily": "$core.font.font-family.primary",
+            "fontWeight": "$core.font.font-weight.bold",
+            "lineHeight": "$core.font.line-height.fixed.10",
+            "fontSize": "$core.font.font-size.9",
+            "letterSpacing": "$core.font.letter-spacing.normal",
+            "paragraphSpacing": "$core.font.paragraph-spacing.normal",
+            "textDecoration": "$core.font.text-decoration.none",
+            "textCase": "$core.font.text-case.none"
+          },
+          "type": "typography"
+        },
+        "text-7h": {
+          "value": {
+            "fontFamily": "$core.font.font-family.primary",
+            "fontWeight": "$core.font.font-weight.bold",
+            "lineHeight": "$core.font.line-height.fixed.10",
+            "fontSize": "$core.font.font-size.10",
+            "letterSpacing": "$core.font.letter-spacing.normal",
+            "paragraphSpacing": "$core.font.paragraph-spacing.normal",
+            "textDecoration": "$core.font.text-decoration.none",
+            "textCase": "$core.font.text-case.none"
+          },
+          "type": "typography"
+        },
+        "text-8h": {
+          "value": {
+            "fontFamily": "$core.font.font-family.primary",
+            "fontWeight": "$core.font.font-weight.bold",
+            "lineHeight": "$core.font.line-height.fixed.12",
+            "fontSize": "$core.font.font-size.11",
+            "letterSpacing": "$core.font.letter-spacing.normal",
+            "paragraphSpacing": "$core.font.paragraph-spacing.normal",
+            "textDecoration": "$core.font.text-decoration.none",
+            "textCase": "$core.font.text-case.none"
+          },
+          "type": "typography"
+        }
       }
     },
     "border": {
