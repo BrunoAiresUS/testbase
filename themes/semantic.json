@@ -835,7 +835,7 @@
       },
       "wrapping": {
         "light": {
-                    "-3": {
+          "-3": {
             "value": {
               "fontFamily": "$core.font.font-family.primary",
               "fontWeight": "$core.font.font-weight.light",
