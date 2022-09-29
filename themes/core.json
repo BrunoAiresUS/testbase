@@ -3,7 +3,7 @@
     "font": {
       "font-family": {
         "primary": {
-          "value": "Avenir Next",
+          "value": "Avenir Next LT Pro",
           "type": "fontFamilies"
         },
         "secondary": {
@@ -23,8 +23,7 @@
         },
         "thin": {
           "value": "Thin",
-          "type": "fontWeights",
-          "description": "only for Avenir Next World (secondary font family)"
+          "type": "fontWeights"
         },
         "light": {
           "value": "Light",
@@ -41,8 +40,7 @@
         },
         "demi": {
           "value": "Demi",
-          "type": "fontWeights",
-          "description": "only for Avenir Next World (secondary font family)"
+          "type": "fontWeights"
         },
         "bold": {
           "value": "Bold",
