@@ -1,18 +1,6 @@
 {
   "semantic": {
     "font": {
-      "line-height": {
-        "wrap": {
-          "high": {
-            "value": "$core.font.line-height.relative.tight",
-            "type": "lineHeights"
-          },
-          "low": {
-            "value": "$core.font.line-height.relative.snug",
-            "type": "lineHeights"
-          }
-        }
-      },
       "default": {
         "light": {
           "-3h": {
@@ -1281,84 +1269,64 @@
           }
         }
       },
-      "display-1": {
-        "value": {
-          "typography": "$semantic.font.wrapping.regular.8"
+      "hierarchy": {
+        "display-1": {
+          "value": "$semantic.font.wrapping.regular.8",
+          "type": "typography"
         },
-        "type": "composition"
-      },
-      "display-2": {
-        "value": {
-          "typography": "$semantic.font.wrapping.regular.7"
+        "display-2": {
+          "value": "$semantic.font.wrapping.regular.7",
+          "type": "typography"
         },
-        "type": "composition"
-      },
-      "heading-1": {
-        "value": {
-          "typography": "$semantic.font.wrapping.regular.6"
+        "heading-1": {
+          "value": "$semantic.font.wrapping.regular.6",
+          "type": "typography"
         },
-        "type": "composition"
-      },
-      "heading-2": {
-        "value": {
-          "typography": "$semantic.font.wrapping.regular.5"
+        "heading-3": {
+          "value": "$semantic.font.wrapping.regular.4",
+          "type": "typography"
         },
-        "type": "composition"
-      },
-      "heading-3": {
-        "value": {
-          "typography": "$semantic.font.wrapping.regular.4"
+        "heading-4": {
+          "value": "$semantic.font.wrapping.regular.3",
+          "type": "typography"
         },
-        "type": "composition"
-      },
-      "heading-4": {
-        "value": {
-          "typography": "$semantic.font.wrapping.regular.3"
+        "heading-5": {
+          "value": "$semantic.font.wrapping.regular.2",
+          "type": "typography"
         },
-        "type": "composition"
-      },
-      "heading-5": {
-        "value": {
-          "typography": "$semantic.font.wrapping.regular.2"
+        "heading-6": {
+          "value": "$semantic.font.wrapping.regular.1",
+          "type": "typography"
         },
-        "type": "composition"
-      },
-      "heading-6": {
-        "value": {
-          "typography": "$semantic.font.wrapping.regular.1"
+        "body-1": {
+          "value": "$semantic.font.wrapping.regular.0",
+          "type": "typography"
         },
-        "type": "composition"
-      },
-      "body-1": {
-        "value": {
-          "typography": "$semantic.font.wrapping.regular.0"
+        "body-2": {
+          "value": "$semantic.font.wrapping.regular.-1",
+          "type": "typography"
         },
-        "type": "composition"
-      },
-      "body-2": {
-        "value": {
-          "typography": "$semantic.font.wrapping.regular.-1"
+        "overline": {
+          "value": {
+            "fontFamilies": "$core.font.font-family.primary",
+            "fontWeights": "$core.font.font-weight.bold",
+            "fontSizes": "$core.font.font-size.2",
+            "lineHeights": "$core.font.line-height.fixed.1",
+            "letterSpacing": "$core.font.letter-spacing.normal",
+            "paragraphSpacing": "$core.font.paragraph-spacing.normal",
+            "textCase": "$core.font.text-case.uppercase",
+            "textDecoration": "$core.font.text-decoration.none",
+            "fontFamily": "$core.font.font-family.primary",
+            "fontWeight": "$core.font.font-weight.bold",
+            "lineHeight": "$core.font.line-height.fixed.1",
+            "fontSize": "$core.font.font-size.2"
+          },
+          "type": "typography"
         },
-        "type": "composition"
-      },
-      "caption": {
-        "value": {
-          "typography": "$semantic.font.wrapping.regular.-2"
-        },
-        "type": "composition"
-      },
-      "overline": {
-        "value": {
-          "fontFamilies": "$core.font.font-family.primary",
-          "fontWeights": "$core.font.font-weight.bold",
-          "fontSizes": "$core.font.font-size.2",
-          "lineHeights": "$core.font.line-height.fixed.1",
-          "letterSpacing": "$core.font.letter-spacing.normal",
-          "paragraphSpacing": "$core.font.paragraph-spacing.normal",
-          "textCase": "$core.font.text-case.uppercase",
-          "textDecoration": "$core.font.text-decoration.none"
-        },
-        "type": "composition"
+        "caption": {
+          "value": "$semantic.font.wrapping.regular.-2",
+          "type": "typography"
+        }
       }
     },
     "border": {
