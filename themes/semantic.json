@@ -635,7 +635,7 @@
           }
         }
       },
-      "wrapping": {
+      "wrap": {
         "light": {
           "0": {
             "value": {
@@ -1271,39 +1271,43 @@
       },
       "hierarchy": {
         "display-1": {
-          "value": "$semantic.font.wrapping.regular.8",
+          "value": "$semantic.font.wrap.regular.8",
           "type": "typography"
         },
         "display-2": {
-          "value": "$semantic.font.wrapping.regular.7",
+          "value": "$semantic.font.wrap.regular.7",
           "type": "typography"
         },
         "heading-1": {
-          "value": "$semantic.font.wrapping.regular.6",
+          "value": "$semantic.font.wrap.regular.6",
+          "type": "typography"
+        },
+        "heading-2": {
+          "value": "$semantic.font.wrap.regular.5",
           "type": "typography"
         },
         "heading-3": {
-          "value": "$semantic.font.wrapping.regular.4",
+          "value": "$semantic.font.wrap.regular.4",
           "type": "typography"
         },
         "heading-4": {
-          "value": "$semantic.font.wrapping.regular.3",
+          "value": "$semantic.font.wrap.regular.3",
           "type": "typography"
         },
         "heading-5": {
-          "value": "$semantic.font.wrapping.regular.2",
+          "value": "$semantic.font.wrap.regular.2",
           "type": "typography"
         },
         "heading-6": {
-          "value": "$semantic.font.wrapping.regular.1",
+          "value": "$semantic.font.wrap.regular.1",
           "type": "typography"
         },
         "body-1": {
-          "value": "$semantic.font.wrapping.regular.0",
+          "value": "$semantic.font.wrap.regular.0",
           "type": "typography"
         },
         "body-2": {
-          "value": "$semantic.font.wrapping.regular.-1",
+          "value": "$semantic.font.wrap.regular.-1",
           "type": "typography"
         },
         "overline": {
@@ -1324,7 +1328,7 @@
           "type": "typography"
         },
         "caption": {
-          "value": "$semantic.font.wrapping.regular.-2",
+          "value": "$semantic.font.wrap.regular.-2",
           "type": "typography"
         }
       }
