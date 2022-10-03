@@ -1466,6 +1466,85 @@
             "type": "typography"
           }
         }
+      },
+      "display-1": {
+        "value": {
+          "typography": "$semantic.font.wrapping.regular.8"
+        },
+        "type": "composition"
+      },
+      "display-2": {
+        "value": {
+          "typography": "$semantic.font.wrapping.regular.7"
+        },
+        "type": "composition"
+      },
+      "heading-1": {
+        "value": {
+          "typography": "$semantic.font.wrapping.regular.6"
+        },
+        "type": "composition"
+      },
+      "heading-2": {
+        "value": {
+          "typography": "$semantic.font.wrapping.regular.5"
+        },
+        "type": "composition"
+      },
+      "heading-3": {
+        "value": {
+          "typography": "$semantic.font.wrapping.regular.4"
+        },
+        "type": "composition"
+      },
+      "heading-4": {
+        "value": {
+          "typography": "$semantic.font.wrapping.regular.3"
+        },
+        "type": "composition"
+      },
+      "heading-5": {
+        "value": {
+          "typography": "$semantic.font.wrapping.regular.2"
+        },
+        "type": "composition"
+      },
+      "heading-6": {
+        "value": {
+          "typography": "$semantic.font.wrapping.regular.1"
+        },
+        "type": "composition"
+      },
+      "body-1": {
+        "value": {
+          "typography": "$semantic.font.wrapping.regular.0"
+        },
+        "type": "composition"
+      },
+      "body-2": {
+        "value": {
+          "typography": "$semantic.font.wrapping.regular.-1"
+        },
+        "type": "composition"
+      },
+      "caption": {
+        "value": {
+          "typography": "$semantic.font.wrapping.regular.-2"
+        },
+        "type": "composition"
+      },
+      "overline": {
+        "value": {
+          "fontFamilies": "$core.font.font-family.primary",
+          "fontWeights": "$core.font.font-weight.bold",
+          "fontSizes": "$core.font.font-size.2",
+          "lineHeights": "$core.font.line-height.fixed.1",
+          "letterSpacing": "$core.font.letter-spacing.normal",
+          "paragraphSpacing": "$core.font.paragraph-spacing.normal",
+          "textCase": "$core.font.text-case.uppercase",
+          "textDecoration": "$core.font.text-decoration.none"
+        },
+        "type": "composition"
       }
     },
     "border": {
