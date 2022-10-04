@@ -135,6 +135,44 @@
         "value": "$semantic.ui.color.inverse.light",
         "type": "color"
       }
+    },
+    "component": {
+      "avatar": {
+        "font": {
+          "value": "$avatar.font.light",
+          "type": "color"
+        },
+        "icon": {
+          "value": "$avatar.icon.light",
+          "type": "color"
+        },
+        "background": {
+          "default": {
+            "value": "$avatar.background.default.light",
+            "type": "color"
+          },
+          "red": {
+            "value": "$avatar.background.red.light",
+            "type": "color"
+          },
+          "teal": {
+            "value": "$avatar.background.teal.light",
+            "type": "color"
+          },
+          "blue": {
+            "value": "$avatar.background.blue.light",
+            "type": "color"
+          },
+          "green": {
+            "value": "$avatar.background.green.light",
+            "type": "color"
+          },
+          "yellow": {
+            "value": "$avatar.background.yellow.light",
+            "type": "color"
+          }
+        }
+      }
     }
   }
 }

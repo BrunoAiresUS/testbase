@@ -135,6 +135,44 @@
         "value": "$semantic.ui.color.inverse.dark",
         "type": "color"
       }
+    },
+    "component": {
+      "avatar": {
+        "font": {
+          "value": "$avatar.font.dark",
+          "type": "color"
+        },
+        "icon": {
+          "value": "$avatar.icon.dark",
+          "type": "color"
+        },
+        "background": {
+          "default": {
+            "value": "$avatar.background.default.dark",
+            "type": "color"
+          },
+          "red": {
+            "value": "$avatar.background.red.dark",
+            "type": "color"
+          },
+          "teal": {
+            "value": "$avatar.background.teal.dark",
+            "type": "color"
+          },
+          "blue": {
+            "value": "$avatar.background.blue.dark",
+            "type": "color"
+          },
+          "green": {
+            "value": "$avatar.background.green.dark",
+            "type": "color"
+          },
+          "yellow": {
+            "value": "$avatar.background.yellow.dark",
+            "type": "color"
+          }
+        }
+      }
     }
   }
 }
