@@ -139,36 +139,36 @@
     "component": {
       "avatar": {
         "font": {
-          "value": "$avatar.font.dark",
+          "value": "{chip.font.clear.dark}",
           "type": "color"
         },
         "icon": {
-          "value": "$avatar.icon.dark",
+          "value": "{chip.icon.solid.grey.dark}",
           "type": "color"
         },
         "background": {
           "default": {
-            "value": "$avatar.background.default.dark",
+            "value": "{chip.background.solid.grey.dark}",
             "type": "color"
           },
           "red": {
-            "value": "$avatar.background.red.dark",
+            "value": "{chip.background.solid.red.dark}",
             "type": "color"
           },
           "teal": {
-            "value": "$avatar.background.teal.dark",
+            "value": "{chip.background.solid.teal.dark}",
             "type": "color"
           },
           "blue": {
-            "value": "$avatar.background.blue.dark",
+            "value": "{chip.background.solid.blue.dark}",
             "type": "color"
           },
           "green": {
-            "value": "$avatar.background.green.dark",
+            "value": "{chip.background.solid.green.dark}",
             "type": "color"
           },
           "yellow": {
-            "value": "$avatar.background.yellow.dark",
+            "value": "{chip.background.solid.yellow.dark}",
             "type": "color"
           }
         }
