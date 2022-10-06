@@ -128,6 +128,16 @@
             "type": "color"
           }
         }
+      },
+      "clear": {
+        "light": {
+          "value": "$semantic.ui.color.text.1.light",
+          "type": "color"
+        },
+        "dark": {
+          "value": "$semantic.ui.color.text.1.dark",
+          "type": "color"
+        }
       }
     },
     "background": {

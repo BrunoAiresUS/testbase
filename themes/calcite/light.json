@@ -139,36 +139,36 @@
     "component": {
       "avatar": {
         "font": {
-          "value": "{chip.font.clear.light}",
+          "value": "$avatar.font.light",
           "type": "color"
         },
         "icon": {
-          "value": "{chip.icon.solid.grey.light}",
+          "value": "$avatar.icon.light",
           "type": "color"
         },
         "background": {
           "default": {
-            "value": "{chip.background.solid.grey.light}",
+            "value": "$avatar.background.default.light",
             "type": "color"
           },
           "red": {
-            "value": "{chip.background.solid.red.light}",
+            "value": "$avatar.background.red.light",
             "type": "color"
           },
           "teal": {
-            "value": "{chip.background.solid.teal.light}",
+            "value": "$avatar.background.teal.light",
             "type": "color"
           },
           "blue": {
-            "value": "{chip.background.solid.blue.light}",
+            "value": "$avatar.background.blue.light",
             "type": "color"
           },
           "green": {
-            "value": "{chip.background.solid.green.light}",
+            "value": "$avatar.background.green.light",
             "type": "color"
           },
           "yellow": {
-            "value": "{chip.background.solid.yellow.light}",
+            "value": "$avatar.background.yellow.light",
             "type": "color"
           }
         }
