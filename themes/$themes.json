@@ -541,7 +541,7 @@
   },
   {
     "id": "ed0c822a9f81dad2733717990c607c1527803a14",
-    "name": "Calcite - Light mode",
+    "name": "Calcite - Light",
     "selectedTokenSets": {
       "core": "source",
       "semantic": "source",
@@ -616,7 +616,7 @@
   },
   {
     "id": "dde8954f0b730e49860d3c5e7608e7601dd1ed8a",
-    "name": "Calcite - Dark mode",
+    "name": "Calcite - Dark",
     "selectedTokenSets": {
       "core": "source",
       "semantic": "source",
@@ -685,5 +685,41 @@
       "avatar.background.yellow.light": "S:a7bc46963e781aa9efbfce2554ada92b984e1acd,",
       "avatar.background.yellow.dark": "S:2a376b0ec0a524b3209ef9b7738af7a2afe30bdc,"
     }
+  },
+  {
+    "id": "59a65f6d4a3657738c9d46d61315ae0b6fc6e9fd",
+    "name": "Brand - Light",
+    "selectedTokenSets": {
+      "core": "source",
+      "semantic": "source",
+      "comp/avatar": "enabled",
+      "comp/checkbox": "enabled",
+      "comp/chip": "enabled",
+      "comp/radio": "enabled",
+      "calcite/light": "disabled",
+      "calcite/dark": "disabled",
+      "brand/global": "enabled",
+      "brand/light": "enabled",
+      "brand/dark": "disabled"
+    },
+    "$figmaStyleReferences": {}
+  },
+  {
+    "id": "d7056b4e805091c91b5ec1b6ce901ba3d606e7a8",
+    "name": "Brand - Dark",
+    "selectedTokenSets": {
+      "core": "source",
+      "semantic": "source",
+      "comp/avatar": "enabled",
+      "comp/checkbox": "enabled",
+      "comp/chip": "enabled",
+      "comp/radio": "enabled",
+      "calcite/light": "disabled",
+      "calcite/dark": "disabled",
+      "brand/global": "enabled",
+      "brand/light": "disabled",
+      "brand/dark": "enabled"
+    },
+    "$figmaStyleReferences": {}
   }
 ]
