@@ -22,6 +22,10 @@
       "md": {
         "value": "$core.sizing.3",
         "type": "spacing"
+      },
+      "lg": {
+        "value": "$core.sizing.3",
+        "type": "spacing"
       }
     },
     "background": {
@@ -56,15 +60,15 @@
         "type": "color"
       }
     },
-    "borderRadius": {
+    "border-radius": {
       "value": "$semantic.border.border-radius.sharp",
       "type": "borderRadius"
     },
+    "border-width": {
+      "value": "$core.border.border-width.0",
+      "type": "borderWidth"
+    },
     "border": {
-      "border-width": {
-        "value": "$core.border.border-width.0",
-        "type": "borderWidth"
-      },
       "light": {
         "value": "$semantic.ui.color.border.input.light",
         "type": "color"
@@ -97,7 +101,7 @@
       }
     },
     "space-around": {
-      "bottom": {
+      "standard": {
         "value": "$core.sizing.5",
         "type": "spacing"
       }
