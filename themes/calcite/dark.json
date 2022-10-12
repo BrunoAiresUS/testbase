@@ -172,6 +172,30 @@
             "type": "color"
           }
         }
+      },
+      "checkbox": {
+        "font": {
+          "value": "$checkbox.font.dark",
+          "type": "color"
+        },
+        "background": {
+          "default": {
+            "value": "$checkbox.background.default.dark",
+            "type": "color"
+          },
+          "selected": {
+            "value": "$checkbox.background.selected.dark",
+            "type": "color"
+          }
+        },
+        "icon": {
+          "value": "$checkbox.icon.dark",
+          "type": "color"
+        },
+        "border": {
+          "value": "$checkbox.border.dark",
+          "type": "color"
+        }
       }
     }
   }
