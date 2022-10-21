@@ -13,7 +13,9 @@
       "brand/dark": "disabled",
       "calcite/light": "disabled",
       "calcite/dark": "disabled",
-      "brand/global": "disabled"
+      "brand/global": "disabled",
+      "comp/loader": "disabled",
+      "comp/rating": "disabled"
     },
     "$figmaStyleReferences": {
       "semantic.ui.color.brand.default.light": "S:959c4907a32cb62f2227db1c3fb7a88c3eedcbb9,",
@@ -553,7 +555,9 @@
       "calcite/dark": "disabled",
       "brand/global": "enabled",
       "brand/light": "enabled",
-      "brand/dark": "disabled"
+      "brand/dark": "disabled",
+      "comp/loader": "disabled",
+      "comp/rating": "disabled"
     },
     "$figmaStyleReferences": {}
   },
@@ -571,7 +575,9 @@
       "calcite/dark": "disabled",
       "brand/global": "enabled",
       "brand/light": "disabled",
-      "brand/dark": "enabled"
+      "brand/dark": "enabled",
+      "comp/loader": "disabled",
+      "comp/rating": "disabled"
     },
     "$figmaStyleReferences": {}
   },
@@ -589,7 +595,9 @@
       "brand/dark": "disabled",
       "calcite/light": "enabled",
       "calcite/dark": "disabled",
-      "brand/global": "disabled"
+      "brand/global": "disabled",
+      "comp/loader": "disabled",
+      "comp/rating": "disabled"
     },
     "$figmaStyleReferences": {
       "color.brand.default": "S:4ae7e0e0a08b9109fef0b6c2cb45185a3b711de8,",
@@ -669,7 +677,9 @@
       "brand/dark": "disabled",
       "calcite/light": "disabled",
       "calcite/dark": "enabled",
-      "brand/global": "disabled"
+      "brand/global": "disabled",
+      "comp/loader": "disabled",
+      "comp/rating": "disabled"
     },
     "$figmaStyleReferences": {
       "color.brand.default": "S:b28244f76fae4e504bbfa18bb30e111e02a00461,",
