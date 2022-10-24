@@ -10,7 +10,7 @@
         "type": "color"
       }
     },
-    "fonts": {
+    "typography": {
       "text": {
         "value": "$semantic.font.wrap.regular.-2",
         "type": "typography"
