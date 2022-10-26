@@ -13,12 +13,20 @@
         "value": "$semantic.font.wrap.regular.-2",
         "type": "typography"
       },
-      "value": {
-        "sm": "[object Object]",
-        "md": "[object Object]",
-        "lg": "[object Object]"
-      },
-      "type": "other"
+      "value-text": {
+        "sm": {
+          "value": "$semantic.font.wrap.regular.-2",
+          "type": "typography"
+        },
+        "md": {
+          "value": "$semantic.font.wrap.regular.0",
+          "type": "typography"
+        },
+        "lg": {
+          "value": "$semantic.font.wrap.regular.2",
+          "type": "typography"
+        }
+      }
     },
     "default": {
       "comp-size": {

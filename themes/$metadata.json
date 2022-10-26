@@ -5,6 +5,7 @@
     "component/avatar",
     "component/checkbox",
     "component/chip",
+    "component/label",
     "component/loader",
     "component/radio",
     "component/rating",
