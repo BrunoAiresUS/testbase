@@ -38,6 +38,10 @@
           "value": "Medium",
           "type": "fontWeights"
         },
+        "medium-italic": {
+          "value": "Medium Italic",
+          "type": "fontWeights"
+        },
         "demi": {
           "value": "Demi",
           "type": "fontWeights"
