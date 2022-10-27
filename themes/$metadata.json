@@ -9,6 +9,7 @@
     "component/loader",
     "component/radio",
     "component/rating",
+    "component/tooltip",
     "calcite/light",
     "calcite/dark",
     "brand/global",

@@ -392,6 +392,20 @@
             "type": "color"
           }
         }
+      },
+      "tooltip": {
+        "foreground": {
+          "value": "$tooltip.foreground.light",
+          "type": "color"
+        },
+        "border": {
+          "value": "$tooltip.border.light",
+          "type": "color"
+        },
+        "font": {
+          "value": "$tooltip.font.light",
+          "type": "color"
+        }
       }
     }
   }
